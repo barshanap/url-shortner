@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-create a new DB and set its connections on .env files for setup Locals
+create a new DB and set its connections on .env files for setup Locals instance
 Eg :-
 DATABASE_CONNECTION_STRING="postgres://username:password@host:5432/databasename"
 
