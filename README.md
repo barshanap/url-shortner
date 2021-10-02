@@ -13,3 +13,4 @@ npm install
 ```
 node server.js
 ```
+###API Docs :- https://documenter.getpostman.com/view/2168782/UUy396kd#b215d502-f458-56e6-e727-457b7667e77f
