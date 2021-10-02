@@ -5,7 +5,7 @@
 create a new DB and set its connections on .env files for setup Locals instance
 Eg :-
 DATABASE_CONNECTION_STRING="postgres://username:password@host:5432/databasename"
-
+specify the SITE_URL in .env for shorten url
 npm install
 ```
 
