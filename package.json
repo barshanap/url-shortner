@@ -1,0 +1,29 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis with Express, Sequelize & PostgreSQL URL Shortner Apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "rest",
+    "api",
+    "postgresql"
+  ],
+  "author": "bezkoder",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nanoid": "^3.1.28",
+    "nodemon": "^2.0.13",
+    "p-iteration": "^1.1.8",
+    "sequelize": "^6.6.5",
+    "valid-url": "^1.0.9"
+  }
+}
